@@ -98,7 +98,7 @@ html[xmlns] .slides{
 
 .flex-direction-nav li a:hover {
 	opacity:1; filter:alpha(opacity=100);
-	background-color: #ffea00;
+	background-color: #F8AC0C;
 }
 
 .flex-direction-nav li .flex-next{
@@ -204,11 +204,11 @@ html[xmlns] .slides{
 	opacity:0;
 	z-index:50;
 	font-family: 'OswaldLight', Arial, Helvetica, sans-serif;
-	font-size:52px;
+	font-size:47px;
 	line-height:56px;
 	min-width:50px;
-	color:#414146;
-	background-color:#ffea00;
+	color:#132060;
+	background-color:#F8AC0C;
 	display: inline-block !important;
 	padding: 14px 20px 15px;
 	margin:0;
@@ -224,7 +224,7 @@ html[xmlns] .slides{
 	line-height:22px;
 	min-width:50px;
 	color:#fff;
-	background-color:#565a60;
+	background-color:#343231;
 	display: inline-block !important;
 	padding: 10px 20px;
 	
