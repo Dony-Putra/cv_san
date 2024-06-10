@@ -62,6 +62,7 @@ body {
 }
 .header-logo-container {
 	float:left;
+	background-color: #fff;
 }
 .header-container-right {
 	float:right;
@@ -230,7 +231,7 @@ ul.social-links li {
 	margin-left:15px;
 }
 .header-container {
-	background-color: #414146;	
+	background-color: #fff;	
 }
 
 
@@ -243,13 +244,22 @@ ul.social-links li {
 	margin:0;
 	padding: 55px 50px;
 }
-.logo {
+/*.logo {
 	width: 100px;
 	height: 20px;
 	margin-left: 27px;
 	margin-top: 27px;
 	margin-bottom: 25px;
 	display: block;
+}*/
+
+.logo {
+    width: 100px;
+    height: 64px;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: block;
 }
 
 /* MAIN MENU
@@ -293,7 +303,7 @@ nav#main-nav select {
 	background-color:#ffea00;
 }
 #main-nav a {
-	color: #fff;
+	color: #414146;
 	display: block;
 	font-size: 14px;
 	position: relative;
@@ -4430,7 +4440,7 @@ a:hover {
  (min-resolution: 1.5dppx) {
 	   
 		.logo { 
-			background: url(../images/logo@2x.png) no-repeat ;
+			/*background: url(../images/logo@2x.png) no-repeat ;*/
 			background-size:100px  auto;
 			background-position:center center;
 		}
