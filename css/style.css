@@ -1651,6 +1651,20 @@ ul.contact-list li{
 	position:relative;
 }
 
+.contact-list a{
+	color:#132060;
+	font-size: 14px;
+	font-weight: bold
+}
+
+.contact-list a:hover{
+	color:#F8AC0C;
+}
+
+.contact-loc:after{
+	height: 80px;
+}
+
 
 /* CONTACT FORM
 ================================================== */
