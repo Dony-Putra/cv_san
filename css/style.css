@@ -352,6 +352,17 @@ box-sizing: border-box !important;*/
  
 }
 
+.profil p {
+	font-size: 16px;
+	line-height: 28px;
+	color: #333;
+}
+
+.legalitas p {
+	color: #343231 !important;
+    font-size: 14px;
+	font-weight: bold;
+}
 
 /*** ESSENTIAL STYLES ***/
 .sf-menu, .sf-menu * {
@@ -2109,7 +2120,7 @@ h3.ui-accordion-header:first-child {
 	margin:0;
 }
 .ui-accordion-header {
-	font-size:12px;
+	font-size:15px;
 	line-height:40px;
 	margin:0;
 	background-color:#565a60;
@@ -3406,11 +3417,14 @@ li [class^="icon-"], .nav li [class^="icon-"], li [class*=" icon-"], .nav li [cl
 ================================================== */
 .team-name h5 {
 	font-family: 'OswaldLight', Arial, Helvetica, sans-serif;
+	font-weight: bold;
 }
 .team-name span {
-    color: #888888;
+    color: #343231;
     display: block;
     font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
 }
 
 /* A, BUTTONS, A-BUTTONS
