@@ -2404,8 +2404,8 @@ ul#filter li a:hover{
 }
 ul#filter li.current a{
 	position: relative;
-	background-color: #fff;
-	color: #132060 ;
+	background-color: #132060;
+    color: #fff;
 }
 /******PORTFOLIO SINGLE******/
 ul.project-details {
