@@ -1607,6 +1607,10 @@ ul.contact-info-page li:first-child {
 	padding-top: 20px !important;
 }
 
+.contact-map {
+	padding-top: 20px !important;
+}
+
 .contact-phone:before, .contact-phone:after{
 	content:'';
 	position:absolute;
@@ -1621,6 +1625,22 @@ ul.contact-info-page li:first-child {
 	background-repeat: no-repeat;
 	background-color: #F8AC0C;
 }
+
+.contact-map:before, .contact-map:after{
+	content:'';
+	position:absolute;
+}
+.contact-map:after{
+	top: 0px;
+	left: -56px;
+	width: 56px;
+	height: 65px;
+	background-image: url(../images/icon_footer_loc-black.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: #F8AC0C;
+}
+
 .contact-mail:before, .contact-mail:after{
 	content:'';
 	position:absolute;
