@@ -280,6 +280,10 @@ ul.social-links li {
     display: block;
 }
 
+.logo img {
+	filter: drop-shadow(1px 1px 5px #F8AC0C);
+}
+
 /* MAIN MENU
 ================================================== */
 .header-rl-container {
