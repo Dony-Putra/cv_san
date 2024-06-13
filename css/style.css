@@ -62,7 +62,7 @@ body {
 }
 .header-logo-container {
 	float:left;
-	background-color: #fff;
+	/* background-color: #fff; */
 }
 .header-container-right {
 	float:right;
@@ -249,7 +249,7 @@ ul.social-links li {
 	margin-left:15px;
 }
 .header-container {
-	background-color: #fff;	
+	/* background-color: #fff;	 */
 }
 
 
@@ -305,7 +305,8 @@ nav#main-nav select {
 }
 #main-nav .current > a {
 	color:#132060;
-	background-color:#F8AC0C;
+	/* background-color:#F8AC0C; */
+	background-color:rgb(248, 172, 12,1);
 }
 #main-nav .current li.current a, #main-nav .current li.current li.current a {
 	color: #fff !important;
@@ -323,7 +324,10 @@ nav#main-nav select {
 #main-nav a {
 	color: #132060;
 	display: block;
-	font-size: 14px;
+	font-size: 18px;
+	font-weight: bold;
+	/* text-shadow: 1px 1px 2px rgba(248, 172, 12, 1); */
+	text-shadow: 1px 1px 2px rgba(255, 255, 255, 1);
 	position: relative;
 	text-decoration: none;
 	transition: all 0.3s;
@@ -543,10 +547,11 @@ ul.sf-menu li li li.sfHover ul {
 .ca-main{
 	color: #132060;
     font-family: 'OswaldLight',Arial,Helvetica,sans-serif;
-    font-size: 20px;
+    font-size: 25px;
+    font-weight: bold;
     line-height: 22px;
- 	margin-bottom: 14px;
-    margin-top: 18px;
+ 	margin-bottom: 22px;
+    /* margin-top: 18px; */
 
     text-align: center;
     -webkit-transition: all 300ms linear;
