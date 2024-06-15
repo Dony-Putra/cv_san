@@ -282,8 +282,13 @@ html[xmlns] .slides{
 		}
 		.slider-1 .slides p, .slider-1 .slides li .links  {
 			/* display: none !important; */
-			bottom:25% !important;
+			bottom:35% !important;
 		}
+
+		.slider-1 .slides p, .slider-1 .slides li .links-top {
+			top:45% !important;
+		}
+
 		.flexslider ul.slides  p {
 			display: none !important;
 		
@@ -317,8 +322,13 @@ html[xmlns] .slides{
 		}
 		.slider-1 .slides p, .slider-1 .slides li .links  {
 			/* display: none !important; */
-			bottom:25% !important;
+			bottom:35% !important;
 		}
+
+		.slider-1 .slides p, .slider-1 .slides li .links-top {
+			top:45% !important;
+		}
+		
 		.flexslider ul.slides  p {
 			display: none !important;
 		

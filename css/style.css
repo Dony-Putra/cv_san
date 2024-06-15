@@ -2980,7 +2980,7 @@ ul.footer-contact-info li {
   top: 0px;
   left: -56px;
   width: 56px;
-  height: 64px;
+  height: 65px;
   background-image: url(../images/icon_footer_loc.png);
   background-position: center center;
   background-repeat: no-repeat;
@@ -4022,6 +4022,9 @@ a:hover {
   nav#main-nav ul {
     display: none;
   }
+  .footer-loc:after {
+	height: 85px;
+  }
   nav#main-nav select {
     width: 420px;
     display: block;
@@ -4176,7 +4179,7 @@ a:hover {
 /*  #Mobile (Portrait) (4)
 ================================================== */
 
-/* Note: Design for a width of 320px */
+/* Note: Design for a width of 320px xxxxxxxxxxxxxxxxxxxxxx*/
 
 @media only screen and (max-width: 767px) {
   nav#main-nav select {
@@ -4184,6 +4187,9 @@ a:hover {
   }
   .header-rl-container {
     width: 300px;
+  }
+  .footer-loc:after {
+	height: 85px;
   }
   .search-text {
     width: 100px;
@@ -4314,7 +4320,10 @@ a:hover {
   }
   .our-clients-container li {
     margin-left: 55px;
+	display: block !important;
   }
+
+
   /*****FOOTER*****/
   .m-minus {
     margin-top: 0 !important;
@@ -4394,7 +4403,7 @@ a:hover {
 /* #Mobile (Landscape) (3)
 ================================================== */
 
-/* Note: Design for a width of 480px */
+/* Note: Design for a width of 480px xxxxxxxxxxxxxxxxxx*/
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
   nav#main-nav select {
@@ -4404,6 +4413,11 @@ a:hover {
   .header-rl-container {
     width: 420px;
   }
+
+  .footer-loc:after {
+	height: 85px;
+  }
+
   .header-rr-container {
     margin-bottom: 10px;
     margin-top: 25px;
