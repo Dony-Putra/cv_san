@@ -48,7 +48,7 @@ $(document).ready(function(){
 	$('<option />', {
 		'selected': 'selected',
 		'value' : '',
-		'text': 'Choose Page...'
+		'text': 'Menu'
 	}).appendTo('nav select');
 
 	$('nav#main-nav ul li a').each(function(){
