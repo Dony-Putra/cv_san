@@ -281,7 +281,8 @@ html[xmlns] .slides{
 			min-height:436px;
 		}
 		.slider-1 .slides p, .slider-1 .slides li .links  {
-			display: none !important;
+			/* display: none !important; */
+			bottom:25% !important;
 		}
 		.flexslider ul.slides  p {
 			display: none !important;
@@ -315,7 +316,8 @@ html[xmlns] .slides{
 			min-height:536px;
 		}
 		.slider-1 .slides p, .slider-1 .slides li .links  {
-			display: none !important;
+			/* display: none !important; */
+			bottom:25% !important;
 		}
 		.flexslider ul.slides  p {
 			display: none !important;
