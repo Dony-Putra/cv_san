@@ -4228,7 +4228,7 @@ a:hover {
   }
 
   .rekanan {
-    width: 100%;
+    width: 100% !important;
   }
 
   .rekanan .sixteen {
@@ -4520,7 +4520,7 @@ a:hover {
   }
 
   .rekanan {
-    width: 100%;
+    width: 100% !important;
   }
 
   .rekanan .sixteen {
