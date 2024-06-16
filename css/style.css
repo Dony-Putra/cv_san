@@ -3812,6 +3812,10 @@ a:hover {
   padding-bottom: 30px;
 }
 
+.container-legalitas {
+  margin-bottom: 0px !important;
+}
+
 /* HOVER EFFECT
 ================================================== */
 .view .mask,
@@ -4061,6 +4065,10 @@ a:hover {
     padding: 20px 0;
   }
 
+  /* .container-legalitas {
+    margin-bottom: 0px !important;
+  } */
+
  /* nav#main-nav select option {
 	background-color: #fff !important;
   } */
@@ -4210,6 +4218,10 @@ a:hover {
     padding: 15px;
     margin: 10px 0;
   }
+
+  /* .container-legalitas {
+    margin-bottom: 0px !important;
+  } */
 
   .container-profile {
     width: 100% !important;
@@ -4483,6 +4495,10 @@ a:hover {
     margin: 10px 0;
   }
 
+  /* .container-legalitas {
+    margin-bottom: 0px !important;
+  }
+   */
   .container-profile h3.ui-accordion-header {
     font-size: 14px;
   }
