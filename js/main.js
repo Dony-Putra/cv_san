@@ -46,7 +46,7 @@ $(document).ready(function(){
 
 	//add options to select
 	$('<option />', {
-		'selected': 'selected',
+		// 'selected': 'selected',
 		'value' : '',
 		'text': 'Menu'
 	}).appendTo('nav select');
