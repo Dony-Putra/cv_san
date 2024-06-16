@@ -4031,17 +4031,17 @@ a:hover {
     cursor: pointer;
     font-size: 18px;
     font-weight: bold;
-    padding: 20px;
+    padding: 15px;
     margin: 10px 0;
     border: none;
     color: #132060;
-    background-color: #fff !important;
+    background: rgb(255,255,255,0.4) !important;
     /* font-family: 'OswaldLight', Arial, Helvetica, sans-serif; */
   }
 
-  nav#main-nav select option {
+ /* nav#main-nav select option {
 	background-color: #fff !important;
-  }
+  } */
 }
 
 /* #Tablet (Portrait) (2)
@@ -4184,8 +4184,8 @@ a:hover {
 @media only screen and (max-width: 767px) {
   nav#main-nav select {
     width: 300px;
-    background-color: #fff !important;
-    padding: 20px;
+    background: rgb(255,255,255,0.4) !important;
+    padding: 15px;
     margin: 10px 0;
   }
   .header-rl-container {
@@ -4412,8 +4412,8 @@ a:hover {
   nav#main-nav select {
     width: 420px;
     display: block;
-    background-color: #fff !important;
-    padding: 20px;
+    background: rgb(255,255,255,0.4) !important;
+    padding: 15px;
     margin: 10px 0;
   }
   .header-rl-container {
