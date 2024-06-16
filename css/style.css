@@ -4050,6 +4050,17 @@ a:hover {
     left: 100%;
   }
 
+  .button-buy-container a {
+    font-size: 18px;
+    line-height: 0;
+    margin-bottom: 15px;
+    padding: 20px 120px;
+  }
+
+  .buy-text-container {
+    padding: 20px 0;
+  }
+
  /* nav#main-nav select option {
 	background-color: #fff !important;
   } */
@@ -4200,6 +4211,23 @@ a:hover {
     margin: 10px 0;
   }
 
+  .container-profile {
+    width: 100% !important;
+  }
+
+  .container-profile h3.ui-accordion-header {
+    font-size: 13px;
+  }
+
+  .container-profile .ui-accordion-header span {
+    width: 20px;
+    margin-right: 5px;
+  }
+
+  .container-profile #toggle-view .panel {
+    margin-left: 0;
+  }
+
   .logo{
     width: 150px;
     height: 100px;
@@ -4208,7 +4236,22 @@ a:hover {
 
   .logo img {
     position: absolute;
-    left: 100%;
+    left: 50%;
+  }
+
+  .buy-img-container img {
+    display: none;
+  }
+
+  .button-buy-container a {
+    font-size: 18px;
+    line-height: 0;
+    margin-bottom: 15px;
+    padding: 20px 120px;
+  }
+
+  .buy-text-container {
+    padding: 20px 0;
   }
 
   .header-rl-container {
@@ -4439,7 +4482,20 @@ a:hover {
     padding: 15px;
     margin: 10px 0;
   }
-  
+
+  .container-profile h3.ui-accordion-header {
+    font-size: 14px;
+  }
+
+  .container-profile .ui-accordion-header span {
+    width: 20px;
+    margin-right: 5px;
+  }
+
+  .container-profile #toggle-view .panel {
+    margin-left: 0;
+  }
+
   .logo{
     width: 150px;
     height: 100px;
@@ -4449,6 +4505,21 @@ a:hover {
   .logo img {
     position: absolute;
     left: 100%;
+  }
+
+  .buy-img-container img {
+    display: none;
+  }
+
+  .button-buy-container a {
+    font-size: 18px;
+    line-height: 0;
+    margin-bottom: 15px;
+    padding: 20px 180px;
+  }
+
+  .buy-text-container {
+    padding: 20px 0;
   }
 
   .header-rl-container {
@@ -4485,7 +4556,9 @@ a:hover {
     width: 390px;
   }
   .button-buy-container {
-    margin-left: 135px;
+    /* margin-left: 135px; */
+    margin-left: 0;
+    float: left;
   }
   .side-box-bg.buy-now {
     display: none;
