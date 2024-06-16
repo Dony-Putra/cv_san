@@ -282,11 +282,11 @@ html[xmlns] .slides{
 		}
 		.slider-1 .slides p, .slider-1 .slides li .links  {
 			/* display: none !important; */
-			bottom:35% !important;
+			bottom:30% !important;
 		}
 
 		.slider-1 .slides p, .slider-1 .slides li .links-top {
-			top:45% !important;
+			top:50% !important;
 		}
 
 		.flexslider ul.slides  p {
@@ -297,6 +297,7 @@ html[xmlns] .slides{
 		.slider-1 .slides li .item {
 			display: none !important;
 		}
+
 		.slider-1 .slides li h2 {
 			top:55% !important;
 			font-size:25px;
@@ -322,11 +323,11 @@ html[xmlns] .slides{
 		}
 		.slider-1 .slides p, .slider-1 .slides li .links  {
 			/* display: none !important; */
-			bottom:35% !important;
+			bottom:30% !important;
 		}
 
 		.slider-1 .slides p, .slider-1 .slides li .links-top {
-			top:45% !important;
+			top:50% !important;
 		}
 		
 		.flexslider ul.slides  p {
@@ -337,8 +338,10 @@ html[xmlns] .slides{
 		.slider-1 .slides li .item {
 			max-width: 40%;
 			top:42% !important;
-			display:block !important;
+			/* display:block !important; */
+			display: none !important;
 		}
+
 		.slider-1 .slides li h2 {
 			top:55% !important;
 			font-size:25px;

@@ -4039,6 +4039,17 @@ a:hover {
     /* font-family: 'OswaldLight', Arial, Helvetica, sans-serif; */
   }
 
+  .logo{
+    width: 150px;
+    height: 100px;
+    position: relative;
+  }
+
+  .logo img {
+    position: absolute;
+    left: 100%;
+  }
+
  /* nav#main-nav select option {
 	background-color: #fff !important;
   } */
@@ -4188,6 +4199,18 @@ a:hover {
     padding: 15px;
     margin: 10px 0;
   }
+
+  .logo{
+    width: 150px;
+    height: 100px;
+    position: relative;
+  }
+
+  .logo img {
+    position: absolute;
+    left: 100%;
+  }
+
   .header-rl-container {
     width: 300px;
   }
@@ -4416,6 +4439,18 @@ a:hover {
     padding: 15px;
     margin: 10px 0;
   }
+  
+  .logo{
+    width: 150px;
+    height: 100px;
+    position: relative;
+  }
+
+  .logo img {
+    position: absolute;
+    left: 100%;
+  }
+
   .header-rl-container {
     width: 420px;
   }
