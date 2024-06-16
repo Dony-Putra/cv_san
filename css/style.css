@@ -4219,9 +4219,25 @@ a:hover {
     margin: 10px 0;
   }
 
-  /* .container-legalitas {
-    margin-bottom: 0px !important;
-  } */
+  #layanan img {
+    width: 100%;
+  }
+
+  #layanan .team-name span {
+    font-size: 14px;
+  }
+
+  .rekanan {
+    width: 100%;
+  }
+
+  .rekanan .sixteen {
+    width: 100% !important;
+  }
+
+  .rekanan ul li {
+    margin: 0 15px !important;
+  }
 
   .container-profile {
     width: 100% !important;
@@ -4495,10 +4511,26 @@ a:hover {
     margin: 10px 0;
   }
 
-  /* .container-legalitas {
-    margin-bottom: 0px !important;
+  #layanan img {
+    width: 100%;
   }
-   */
+
+  #layanan .team-name span {
+    font-size: 14px;
+  }
+
+  .rekanan {
+    width: 100%;
+  }
+
+  .rekanan .sixteen {
+    width: 100% !important;
+  }
+
+  .rekanan ul li {
+    margin: 0 33px !important;
+  }
+
   .container-profile h3.ui-accordion-header {
     font-size: 14px;
   }
