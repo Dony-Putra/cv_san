@@ -4031,7 +4031,8 @@ a:hover {
     cursor: pointer;
     font-size: 18px;
     font-weight: bold;
-    padding: 10px;
+    padding: 20px;
+    margin: 10px 0;
     border: none;
     color: #132060;
     background-color: #fff !important;
