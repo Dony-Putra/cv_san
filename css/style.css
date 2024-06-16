@@ -4185,6 +4185,8 @@ a:hover {
   nav#main-nav select {
     width: 300px;
     background-color: #fff !important;
+    padding: 20px;
+    margin: 10px 0;
   }
   .header-rl-container {
     width: 300px;
@@ -4411,6 +4413,8 @@ a:hover {
     width: 420px;
     display: block;
     background-color: #fff !important;
+    padding: 20px;
+    margin: 10px 0;
   }
   .header-rl-container {
     width: 420px;
